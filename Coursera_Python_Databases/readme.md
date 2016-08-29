@@ -1,5 +1,5 @@
 Course link: https://www.coursera.org/learn/python-databases
 
-Final Grade: ***Pending***
+Final Grade: ***95%***
 
 Keywords: Python OOP, Databases, SQL, SQLite
